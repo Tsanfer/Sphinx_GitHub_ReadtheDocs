@@ -12,8 +12,6 @@
 
    contents   
 
-   Linux_conf
-
 表项
 ==================
 
