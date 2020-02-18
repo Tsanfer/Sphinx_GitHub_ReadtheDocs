@@ -8,9 +8,9 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录: 
+   :caption: Linux配置: 
 
-   contents   
+   Linux_conf
 
 表项
 ==================
