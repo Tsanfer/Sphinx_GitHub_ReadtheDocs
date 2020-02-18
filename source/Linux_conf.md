@@ -1,8 +1,8 @@
->Win10 Ubuntu子系统路径：`%USERNAME%\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`
-
 # Linux配置
 ## 更换Ubuntu源
 ### step 1: 首先看看国内有哪些源
+
+>Win10 Ubuntu子系统路径：`%USERNAME%\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`
 
 名称 | 域名 
 :-: | :-: 
@@ -13,6 +13,7 @@
 电子科大|`http://ubuntu.dormforce.net/ubuntu/`
 
 ### step 2: 获取 Ubuntu 代号
+
 `lsb_release -a`
 
 Ubuntu 18.04.1，查出来的代号就是 bionic.

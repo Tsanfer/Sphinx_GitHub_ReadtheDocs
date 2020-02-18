@@ -8,13 +8,26 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Linux配置: 
+
+   contents
+
+.. toctree::
+   :maxdepth: 2
 
    Linux_conf
 
-表项
-==================
+.. toctree::
+   :maxdepth: 2
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Github_conf
+
+.. toctree::
+   :maxdepth: 2
+
+   Sphinx_conf
+
+.. toctree::
+   :maxdepth: 2
+
+   Readthedocs_conf
+
