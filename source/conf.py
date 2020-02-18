@@ -35,6 +35,8 @@ extensions = [
         'sphinx_markdown_tables',
 ]
 
+source_suffix = ['.rst', 'rest', '.md']
+
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
