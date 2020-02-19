@@ -55,12 +55,26 @@ make html
 配置`./source/conf.py`配置文件：
 
 ```python
+# -- General configuration ---------------------------------------------------
+
+# Add any Sphinx extension module names here, as strings. They can be
+# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
+# ones.
+
 extensions = [
         'recommonmark',
         'sphinx_markdown_tables',
 ]
 
+# -- Options for HTML output -------------------------------------------------
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+#
 html_theme = 'sphinx_rtd_theme'
+
+# The master toctree document.
+master_doc = 'index'
 ```
 
 添加`./requirements.txt` pip要求文件（**Readthedocs配置**时需要用到）
@@ -87,24 +101,13 @@ sphinx-rtd-theme
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录:
    
-   contents
-```
-
-创建`./source/contents.rst`文件
-
-```rst
-.. toctree::
-   :maxdepth: 2
-   :caption: 目录
-
    test
 ```
 
 创建`./source/test.md`文件
 
-```md
+```markdown
 # here is a test markdown file
 ```
 
