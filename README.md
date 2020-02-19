@@ -2,11 +2,6 @@
 
 [![Documentation Status](https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest)](https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest)
 
-<iframe
-frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
-src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
-</iframe>
-
 创建Sphinx + GitHub + ReadtheDocs托管文档
 
 # Linux配置
@@ -244,9 +239,3 @@ sphinx-rtd-theme
 
 指定pip要求文件: `./requirements.txt`
 ![](https://i.loli.net/2020/02/18/FbK8JTxoN72M5G9.png)
-
-<iframe
-src="https://player.bilibili.com/player.html?aid=79278898&cid=135670902&page=1"
-scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
-style="width: 640px; height: 430px; max-width: 100%">
-</iframe>
