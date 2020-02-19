@@ -48,18 +48,10 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :numbered:
 
-   Linux_conf
-
-   Github_conf
-
-   Sphinx_conf
-
-   Readthedocs_conf
-   
-
+   Sphinx_GitHub_ReadtheDocs
    
 官方Sphinx + Readthedocs教程
 -----------------------------

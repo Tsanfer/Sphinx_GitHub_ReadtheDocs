@@ -1,13 +1,7 @@
-# Sphinx_GitHub_ReadtheDocs
-
-[![Documentation Status](https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest)](https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest)
-
 <iframe
 frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
 src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
 </iframe>
-
-创建Sphinx + GitHub + ReadtheDocs托管文档
 
 # Linux配置
 ## 更换Ubuntu源
@@ -103,7 +97,7 @@ trusted-host=mirrors.aliyun.com
 
 # Github配置
 
-克隆一个新的公共的空白仓库到本地 `~\Sphinx_GitHub_ReadtheDocs`
+克隆 一个新的公共的空白仓库到本地 `~\Sphinx_GitHub_ReadtheDocs`
 
 目录结构：
 
