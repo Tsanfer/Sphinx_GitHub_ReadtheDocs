@@ -38,7 +38,6 @@
 
 .. |docs| image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
    :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
-   :alt: Documentation Status
 
 	   
 .. |shpinx_logo| image:: https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png
