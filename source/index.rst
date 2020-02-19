@@ -6,8 +6,6 @@
 
 创建Sphinx + GitHub + ReadtheDocs托管文档
 =====================================================
-
-|docs|
       
 :|:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:headphones:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:|:
 	
@@ -36,10 +34,7 @@
 .. _Github: https://github.com/
 .. _ReadtheDocs: https://readthedocs.org/
 
-.. |docs| image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
-   :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
-
-	   
+  
 .. |shpinx_logo| image:: https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png
 	:target: https://www.sphinx-doc.org/
 .. |github_logo| image:: https://i.loli.net/2020/02/19/j2Ad8meR5UF3O6P.png
