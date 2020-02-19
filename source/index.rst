@@ -9,25 +9,11 @@
 .. toctree::
    :maxdepth: 2
 
-   contents
-
-.. toctree::
-   :maxdepth: 2
-
    Linux_conf
-
-.. toctree::
-   :maxdepth: 2
 
    Github_conf
 
-.. toctree::
-   :maxdepth: 2
-
    Sphinx_conf
-
-.. toctree::
-   :maxdepth: 2
 
    Readthedocs_conf
 
