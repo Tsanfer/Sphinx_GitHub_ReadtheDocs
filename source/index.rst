@@ -7,9 +7,6 @@
 创建Sphinx + GitHub + ReadtheDocs托管文档
 =====================================================
 
-.. image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
-   :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
-   :alt: Documentation Status
       
 |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:headphones:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:|
 	.. raw:: html
@@ -18,10 +15,14 @@
 	   frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
 	   src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
 	   </iframe>
-
+	   
+.. image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
+   :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
+   :alt: Documentation Status
 
 .. seealso::
 	`GitHub代码链接`__
+	
 	
 .. __: https://github.com/Tsanfer/Sphinx_GitHub_ReadtheDocs
 
