@@ -24,17 +24,18 @@
 .. _Github: https://github.com/
 .. _ReadtheDocs: https://readthedocs.org/
 	   
-.. |shpinx_logo| image:: https://www.sphinx-doc.org/en/master/_static/sphinxheader.png
+.. |shpinx_logo| image:: https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png
 	:target: https://www.sphinx-doc.org/
-.. |github_logo| image:: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
+.. |github_logo| image:: https://i.loli.net/2020/02/19/j2Ad8meR5UF3O6P.png
 	:target: https://github.com/
-.. |readthedocs_logo| image:: https://assets.readthedocs.org/static/images/logo.8add1c892c45.png
+.. |readthedocs_logo| image:: https://i.loli.net/2020/02/19/oWvA34qxU9DQyYu.png
 	:target: https://readthedocs.org/
 
-   
+
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
 
    Linux_conf
 
@@ -44,3 +45,25 @@
 
    Readthedocs_conf
    
+
+   
+官方Sphinx + Readthedocs教程
+-----------------------------
+.. raw:: html
+
+  <iframe
+  src="https://player.bilibili.com/player.html?aid=79278898&cid=135670902&page=1"
+  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"
+  style="width: 640px; height: 430px; max-width: 100%">
+  </iframe>
+
+
+:|:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:headphones:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:|:
+
+	.. raw:: html
+	   
+	   <iframe
+	   frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
+	   src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
+	   </iframe>
+	   

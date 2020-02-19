@@ -107,7 +107,7 @@ sphinx-rtd-theme
 
 创建`./source/test.md`文件
 
-```markdown
+```
 # here is a test markdown file
 ```
 

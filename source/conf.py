@@ -22,7 +22,7 @@ copyright = '2020, Tsanfer'
 author = 'Tsanfer'
 
 # The full version, including alpha/beta/rc tags
-release = '0.9'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -33,6 +33,7 @@ release = '0.9'
 extensions = [
         'recommonmark',
         'sphinx_markdown_tables',
+        'sphinxemoji.sphinxemoji',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
