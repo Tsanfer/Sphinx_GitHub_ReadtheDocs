@@ -21,8 +21,8 @@
 
 
 .. _Sphinx: https://www.sphinx-doc.org/
-.. _Github: https://www.sphinx-doc.org/
-.. _ReadtheDocs: https://www.sphinx-doc.org/
+.. _Github: https://github.com/
+.. _ReadtheDocs: https://readthedocs.org/
 	   
 .. |shpinx_logo| image:: https://www.sphinx-doc.org/en/master/_static/sphinxheader.png
 	:target: https://www.sphinx-doc.org/
