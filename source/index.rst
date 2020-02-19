@@ -16,13 +16,11 @@
 	   src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
 	   </iframe>
 	   
-.. image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
-   :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
-   :alt: Documentation Status
-
 .. seealso::
 	`GitHub代码链接`__
 	
+.. image:: https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest
+   :target: https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest
 	
 .. __: https://github.com/Tsanfer/Sphinx_GitHub_ReadtheDocs
 
