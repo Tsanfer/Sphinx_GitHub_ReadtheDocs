@@ -6,15 +6,12 @@
 
 创建Sphinx + GitHub + ReadtheDocs托管文档
 =====================================================
-      
-:|:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:headphones:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:|:
-	
-.. raw:: html
-   
-   <iframe
-   frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
-   src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
-   </iframe>
+ 
+====================================================================================================================================================================================================================================================================================================== 
+|:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:headphones:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_score:| |:musical_note:| |:musical_note:| |:musical_note:| |:musical_note:|
+======================================================================================================================================================================================================================================================================================================
+|music|
+======================================================================================================================================================================================================================================================================================================
 	   
 .. seealso::
 	`GitHub代码链接`__	
@@ -42,6 +39,12 @@
 .. |readthedocs_logo| image:: https://i.loli.net/2020/02/19/oWvA34qxU9DQyYu.png
 	:target: https://readthedocs.org/
 
+.. |music| raw:: html
+   
+			   <iframe
+			   frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
+			   src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
+			   </iframe>
 
 
 .. toctree::
