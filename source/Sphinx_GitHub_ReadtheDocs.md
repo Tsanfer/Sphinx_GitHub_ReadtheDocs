@@ -9,7 +9,7 @@ $$
 
 |[Sphinx](https://www.sphinx-doc.org/)|[Github](https://github.com/)|[Readthedocs](https://readthedocs.org/)|
 |:-:|:-:|:-:|
-|[<img src="https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png" width="500px" />](https://www.sphinx-doc.org/)|[<img src="https://i.loli.net/2020/02/19/j2Ad8meR5UF3O6P.png" width="500px" />](https://github.com/)|[<img src="https://i.loli.net/2020/02/19/oWvA34qxU9DQyYu.png" width="500px" />](https://readthedocs.org/)|
+|[<img src="https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png" width="300px" />](https://www.sphinx-doc.org/)|[<img src="https://i.loli.net/2020/02/19/j2Ad8meR5UF3O6P.png" width="300px" />](https://github.com/)|[<img src="https://i.loli.net/2020/02/19/oWvA34qxU9DQyYu.png" width="300px" />](https://readthedocs.org/)|
 
 # Linux配置
 ## 更换Ubuntu源
