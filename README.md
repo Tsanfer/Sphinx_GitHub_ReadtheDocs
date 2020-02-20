@@ -1,6 +1,7 @@
 # Sphinx_GitHub_ReadtheDocs
 
 [![Documentation Status](https://readthedocs.org/projects/sphinx-github-readthedocstsanfer/badge/?version=latest)](https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/?badge=latest)
+
 创建Sphinx + GitHub + ReadtheDocs托管文档
 
 > [Readthedocs在线电子书链接](https://sphinx-github-readthedocstsanfer.readthedocs.io/zh_CN/latest/index.html#)
