@@ -18,6 +18,9 @@ $$
 
 
 # Linux配置
+
+>Win10 Ubuntu子系统路径：`%USERNAME%\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`
+
 ## 更换Ubuntu源
 ### step 1: 首先看看国内有哪些源
 

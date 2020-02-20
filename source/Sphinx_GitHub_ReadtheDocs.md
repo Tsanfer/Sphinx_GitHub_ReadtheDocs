@@ -17,6 +17,8 @@ src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66"
 
 # Linux配置
 
+>Win10 Ubuntu子系统路径：`%USERNAME%\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs`
+
 ## 更换Ubuntu源
 ### step 1: 首先看看国内有哪些源
 
