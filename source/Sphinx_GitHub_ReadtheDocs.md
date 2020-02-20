@@ -3,15 +3,20 @@ $$
 $$
 
 <iframe
-     frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
-     src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
+frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86
+src="https://music.163.com/outchain/player?type=2&id=465675050&auto=1&height=66">
 </iframe>
 
 |[Sphinx](https://www.sphinx-doc.org/)|[Github](https://github.com/)|[Readthedocs](https://readthedocs.org/)|
 |:-:|:-:|:-:|
 |[<img src="https://i.loli.net/2020/02/19/JP8td4QvCiY1L3g.png" width="300px" />](https://www.sphinx-doc.org/)|[<img src="https://i.loli.net/2020/02/19/j2Ad8meR5UF3O6P.png" width="300px" />](https://github.com/)|[<img src="https://i.loli.net/2020/02/19/oWvA34qxU9DQyYu.png" width="300px" />](https://readthedocs.org/)|
 
+# 最终效果
+
+![](https://i.loli.net/2020/02/20/SmIoev5lCOQiXJw.png)
+
 # Linux配置
+
 ## 更换Ubuntu源
 ### step 1: 首先看看国内有哪些源
 
