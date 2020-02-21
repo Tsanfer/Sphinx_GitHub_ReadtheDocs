@@ -134,7 +134,7 @@ trusted-host=mirrors.aliyun.com
 ## 安装Sphinx、及其插件
 
 ```bash
-pip3 install sphinx sphinx_rtd_theme recommonmark sphinx-markdown-tables
+pip3 install sphinx sphinx_rtd_theme recommonmark sphinx-markdown-tables sphinxemoji
 ```
 
 ## 初始化Sphinx
@@ -175,7 +175,7 @@ sphinx-quickstart
 验证配置是否正确：
 
 ```sh
-cd ~/work/scrapy-cookbook
+cd ~/Sphinx_GitHub_ReadtheDocs
 make html
 ```
 
