@@ -42,6 +42,7 @@ Ubuntu 18.04.1，查出来的代号就是 bionic.
 ![](https://img-blog.csdnimg.cn/20190121012630368.png)
 
 红色边框：服务器地址
+
 紫色边框：Ubuntu 的代号（Codename）
 
 ### step 4: 修改源文件 sources.list
